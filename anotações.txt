@@ -1,0 +1,14 @@
+Gemini: https://gemini.google.com/app
+
+Aula 1: https://cursos.alura.com.br/imersoes/aulas/desvendando-apis-e-servidores-c140
+
+Foi instalado o node.js
+Version: v22.1.0
+
+Aula 2: https://cursos.alura.com.br/imersoes/aulas/criando-e-estruturando-sua-primeira-api-com-get-e-banco-de-dados-c141
+
+Iremos utilizar o MONGDB
+
+Aula 3: https://cursos.alura.com.br/imersoes/aulas/conectando-sua-api-ao-mongodb-estrutura-conexao-e-refatoracao-c142
+
+Para instalar o npm: npm install mongodb
